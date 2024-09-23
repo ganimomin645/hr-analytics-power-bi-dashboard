@@ -1,6 +1,7 @@
 This repository contains a Human Resources (HR) Analytics Dashboard developed using Power BI Desktop. The dashboard is designed to provide comprehensive insights into HR metrics, enabling data-driven decision-making within an organization.
 
 Key Features:
+
 Employee Demographics: Visualizes workforce distribution across departments, age groups, and genders.
 
 Attrition & Retention Analysis: Analyzes employee turnover rates, including reasons for attrition and trends over time.
