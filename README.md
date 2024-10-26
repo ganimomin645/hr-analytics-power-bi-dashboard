@@ -19,3 +19,5 @@ Power Query: Used for data cleaning, transformation, and integration from multip
 Custom Visualizations: Integrated various visual types, including bar charts, pie charts, KPIs, and line graphs, to convey meaningful insights.
 
 Filters & Slicers: Included interactive filters for drill-down analysis by department, gender, and employment type.
+
+![image](https://github.com/user-attachments/assets/1efeccf8-6c49-4264-9ea2-be383813033f)
